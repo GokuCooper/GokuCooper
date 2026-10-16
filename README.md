@@ -37,11 +37,11 @@ The full identity lifecycle, in the order I built it: log in, join, move, leave,
 
 ## Tools
 
-**Identity platforms:** Okta, SailPoint IdentityIQ, Microsoft Entra ID, CyberArk PAM, Active Directory
-**Protocols and concepts:** SAML, OIDC, OAuth 2.0, SCIM, MFA, Conditional Access, PIM, RBAC, SoD, access certification, JML
-**Automation:** PowerShell, Python, Microsoft Graph, Okta API, REST
-**Infrastructure:** Windows Server, VMware Workstation, MySQL, Apache Tomcat, IIS
-**Security tooling:** gitleaks
+- **Identity platforms:** Okta, SailPoint IdentityIQ, Microsoft Entra ID, CyberArk PAM, Active Directory
+- **Protocols and concepts:** SAML, OIDC, OAuth 2.0, SCIM, MFA, Conditional Access, PIM, RBAC, SoD, access certification, JML
+- **Automation:** PowerShell, Python, Microsoft Graph, Okta API, REST
+- **Infrastructure:** Windows Server, VMware Workstation, MySQL, Apache Tomcat, IIS
+- **Security tooling:** gitleaks
 
 ---
 
